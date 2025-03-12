@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+<h1 align="center"> AMARESH KONETI </h1>
 
 Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** and **Software Developer** with a strong background in **Data Structures, Algorithms, and Web Development**. I love building innovative solutions using AI and automation.
 
@@ -22,21 +22,21 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** and **Software
   <li>🎨 Interactive 3D space for exploring artworks</li>
   <li>🖼️ Image recognition for artwork identification</li>
   <li>🤖 AI chatbot for exhibit information</li>
-  <li>🔗 <a href="#">Project Repository</a></li>
+  <li>🔗 <a href="https://github.com/amareshkoneti/project-art">Project Repository</a></li>
 </ul>
 
 ### 🔵 <b>Automated Answers Evaluation System</b>
 <ul>
   <li>📝 AI-based system for evaluating subjective answers</li>
   <li>📊 NLP techniques for semantic analysis</li>
-  <li>🔗 <a href="#">Project Repository</a></li>
+  <li>🔗 <a href="https://github.com/amareshkoneti/SmartGrade">Project Repository</a></li>
 </ul>
 
 ### 🟠 <b>Osteoporosis Prediction using X-ray Images</b>
 <ul>
   <li>🦴 Deep learning model to detect osteoporosis from knee X-rays</li>
   <li>🔬 CNN-based approach for medical diagnosis</li>
-  <li>🔗 <a href="#">Project Repository</a></li>
+  <li>🔗 <a href="https://github.com/amareshkoneti/Osteophorosis-predictor">Project Repository</a></li>
 </ul>
 
 
