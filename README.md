@@ -1,4 +1,4 @@
-# AMARESH KONETI
+# Hi there! 👋 I'm [Your Name]
 
 Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** and **Software Developer** with a strong background in **Data Structures, Algorithms, and Web Development**. I love building innovative solutions using AI and automation.
 
@@ -14,19 +14,6 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** and **Software
   <li>📚 Always learning and exploring new technologies!</li>
 </ul>
 
----
-
-## 🔥 Achievements
-
-<ul>
-  <li>🏆 <b>1st Prize</b> in College-Level Coding Contest at SITAR fest 2024</li>
-  <li>📜 <b>Generative AI Internship - Google & Eduskills</b></li>
-  <li>🥇 <b>HackerRank Golden Badge</b> in Problem Solving</li>
-  <li>📊 <b>Completed Cisco Data Analytics Essentials Course</b></li>
-  <li>📜 <b>Completed AWS & Oracle ML Virtual Internships</b></li>
-</ul>
-
----
 
 ## 🛠️ Projects
 
@@ -38,33 +25,29 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** and **Software
   <li>🔗 <a href="#">Project Repository</a></li>
 </ul>
 
-### 🔵 <b>Automated Digital Monitoring & Alert System for DWLRs</b>
+### 🔵 <b>Automated Answers Evaluation System</b>
 <ul>
-  <li>🚔 Smart monitoring system for traffic rule violators</li>
-  <li>📩 Twilio API for automated SMS alerts</li>
+  <li>📝 AI-based system for evaluating subjective answers</li>
+  <li>📊 NLP techniques for semantic analysis</li>
   <li>🔗 <a href="#">Project Repository</a></li>
 </ul>
 
-### 🟠 <b>Facial Attendance System</b>
+### 🟠 <b>Osteoporosis Prediction using X-ray Images</b>
 <ul>
-  <li>📷 Real-time face recognition for attendance</li>
-  <li>🗃️ Retrieves student details upon recognition</li>
+  <li>🦴 Deep learning model to detect osteoporosis from knee X-rays</li>
+  <li>🔬 CNN-based approach for medical diagnosis</li>
   <li>🔗 <a href="#">Project Repository</a></li>
 </ul>
 
----
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="www.linkedin.com/in/amaresh-koneti-8abb8a28b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:amareshkoneti@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome" alt="Portfolio">
   </a>
 </p>
 
@@ -73,8 +56,8 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** and **Software
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amareshkoneti&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amareshkoneti&theme=radical" width="48%" />
 </p>
 
 ---
