@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** and **Software
   <li>📚 Always learning and exploring new technologies!</li>
 </ul>
 
+---
 
 ## 🛠️ Projects
 
@@ -39,6 +40,7 @@ Welcome to my GitHub profile! I'm a passionate **AI/ML Engineer** and **Software
   <li>🔗 <a href="https://github.com/amareshkoneti/Osteophorosis-predictor">Project Repository</a></li>
 </ul>
 
+---
 
 ## 📫 Connect with Me
 
